@@ -21,5 +21,6 @@ NOTHING.
 
 ## Usage
 - Right-click any folder and click `Open with mpv`, or
-- Right-click the blank in a folder.
+- Right-click the blank in a folder, or
+- Drag-and-drop a media file/folder to the batch file.
 - Try it!
